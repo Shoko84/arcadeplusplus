@@ -16,11 +16,11 @@ All graphic libraries are located into the `lib` folder and games libraries into
 #### Example
 `./arcade ./lib/lib_arcade_sfml.so` will launch the program with the SFML library.
 
-/!\ If you have any problems when compiling graphic libs, then install on your machine the appropriate library, I will fix up this soon !  
+__/!\ If you have any problems when compiling graphic libs, then install on your machine the appropriate library, I will fix up this soon !__  
 _The reason is that you may have missing dependencies for the library you can't compile and I've put in the local dependencies some important files so, yeah, that's a lil' fucked up._
 
-_For now it's a little empty so yeah, I'll try to fill this up.._
+_For now it's a little empty so yeah, I'll try to fill this up.._  
 
-_Made by Maxime Cauvin with <3_
+_Made by Maxime Cauvin with **<3**_
 
 > Special thanks to Enguerrand Allamel who "works" with me on this project :)
