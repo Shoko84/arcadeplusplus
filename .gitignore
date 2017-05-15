@@ -1,0 +1,9 @@
+arcade++
+*.o
+*.a
+/CMakeLists.txt
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+games/TestsProtocol/
+/games/TestsProtocol/

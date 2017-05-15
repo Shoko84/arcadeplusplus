@@ -5,10 +5,10 @@
 ## Login   <cauvin_m@epitech.net>
 ##
 ## Started on  Mon Mar 13 10:28:22 2017 cauvin-m
-## Last update Mon May 15 02:20:28 2017 Maxime Cauvin
+## Last update Mon May 15 02:47:24 2017 Maxime Cauvin
 ##
 
-NAME    		=     arcade
+NAME    		=     arcade++
 
 CC      		=    	g++
 
