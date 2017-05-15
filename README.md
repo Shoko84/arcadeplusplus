@@ -25,4 +25,4 @@ _For now it's a little empty so yeah, I'll try to fill this up.._
 
 _Made by Maxime Cauvin with **<3**_
 
-> Special thanks to Enguerrand Allamel who "works" with me on this project :)
+> Special thanks to Enguerrand Allamel who works with me on this project :)
